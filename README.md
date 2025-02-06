@@ -1,6 +1,6 @@
 # Marketplace Builder Hackathon 2025 - [Food Tuck] - Day 7 Submission
 
-## BUILDING DYNAMIC FRONTEND COMPONENTS FOR YOUR MARKETPLACE
+## Final Hackathon Day Document - Day 7
 
 This document outlines the tasks completed during Day 4 of the Marketplace Builder Hackathon 2025, focusing on API integration and data migration for the e-commerce platform.
 
